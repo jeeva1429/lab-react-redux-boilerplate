@@ -23,5 +23,5 @@ const initialState = {
     }
   };
   
-  export default LikesHandler;
+  export default LikesHandler
   
